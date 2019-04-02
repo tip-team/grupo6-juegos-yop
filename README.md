@@ -4,7 +4,7 @@
 Aplicación web para venta de productos utilizando la API de mercado pago para procesar las compras.
 
 ## Documento de visión y alcance.
-[Documento](https://github.com/javierperini/UnderTheater/wiki/Vision-general-del-proyecto)
+[Documento](https://github.com/tip-team/grupo6-juegos-yop/wiki/Documento-de-visi%C3%B3n-y-alcance)
 
 ## Wiki.
 mas información [aquí](https://github.com/tip-team/grupo6-juegos-yop/wiki)
