@@ -1,5 +1,5 @@
 ![](https://bit.ly/2TUG6LG)
-# Juegos Yop
+# Juegos Yop [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 Aplicación web para venta de productos utilizando la API de mercado pago para procesar las compras.
 
